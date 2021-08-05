@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dayana4/static/css/main.a617e044.chunk.css",
+    "main.js": "/dayana4/static/js/main.2fd5f2e4.chunk.js",
+    "main.js.map": "/dayana4/static/js/main.2fd5f2e4.chunk.js.map",
+    "runtime-main.js": "/dayana4/static/js/runtime-main.c7f2442a.js",
+    "runtime-main.js.map": "/dayana4/static/js/runtime-main.c7f2442a.js.map",
+    "static/js/2.4dc3583a.chunk.js": "/dayana4/static/js/2.4dc3583a.chunk.js",
+    "static/js/2.4dc3583a.chunk.js.map": "/dayana4/static/js/2.4dc3583a.chunk.js.map",
+    "static/js/3.d6e0941b.chunk.js": "/dayana4/static/js/3.d6e0941b.chunk.js",
+    "static/js/3.d6e0941b.chunk.js.map": "/dayana4/static/js/3.d6e0941b.chunk.js.map",
+    "index.html": "/dayana4/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dayana4/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4dc3583a.chunk.js.LICENSE.txt": "/dayana4/static/js/2.4dc3583a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dayana4/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7f2442a.js",
+    "static/js/2.4dc3583a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2fd5f2e4.chunk.js"
+  ]
+}
