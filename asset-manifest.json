@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dayana4/static/css/main.a617e044.chunk.css",
-    "main.js": "/dayana4/static/js/main.2fd5f2e4.chunk.js",
-    "main.js.map": "/dayana4/static/js/main.2fd5f2e4.chunk.js.map",
+    "main.js": "/dayana4/static/js/main.289bbaae.chunk.js",
+    "main.js.map": "/dayana4/static/js/main.289bbaae.chunk.js.map",
     "runtime-main.js": "/dayana4/static/js/runtime-main.c7f2442a.js",
     "runtime-main.js.map": "/dayana4/static/js/runtime-main.c7f2442a.js.map",
     "static/js/2.4dc3583a.chunk.js": "/dayana4/static/js/2.4dc3583a.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c7f2442a.js",
     "static/js/2.4dc3583a.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.2fd5f2e4.chunk.js"
+    "static/js/main.289bbaae.chunk.js"
   ]
 }
